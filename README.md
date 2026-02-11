@@ -1,6 +1,6 @@
 # VSC Suspension System
 
-MATLAB simulation of Variable Structure Control (sliding mode control) for a quarter-car suspension system.
+MATLAB simulation of Variable Structure Control (VSC) for a quarter-car suspension system.
 
 ## Usage
 
