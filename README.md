@@ -7,6 +7,6 @@ MATLAB simulation of Variable Structure Control (sliding mode control) for a qua
 Run any script directly in MATLAB:
 
 ```matlab
-run('vsc.m')
+run('vsc_open_loop.m')
 run('vsc_controller_band.m')
 ```
