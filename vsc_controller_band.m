@@ -163,8 +163,7 @@ grid on; box off;
 
 sgtitle('VSC Controller with Boundary Band', 'Interpreter', 'latex');
 
-% Analytical metrics (linear equivalent: Structure I with psi = K)
-% Closed-loop: z'' + (b/m)*z' + (k+K)/m * z = N*r/m
+% Analytical metrics
 wn = sqrt((k + K) / m);
 zeta = b / (2 * m * wn);
 wd = wn * sqrt(1 - zeta^2);
